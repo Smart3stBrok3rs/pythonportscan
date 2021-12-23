@@ -1,3 +1,9 @@
-# pythonportscan
- python 3 requirment 
- simple python3 PythonPortScanner.py ip port 
+# requirment 
+
+ 
+python 3 requirment
+
+# how to run 
+
+
+ python3 PythonPortScanner.py ip port 
